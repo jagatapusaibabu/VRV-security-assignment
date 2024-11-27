@@ -183,7 +183,7 @@ Node.js
 npm or yarn
 Installation
 Clone the repository:
-git clone https://github.com/MahindraGamini/VRV-security-assignment
+git clone https://github.com/jagatapusaibabu/VRV-security-assignment.git
 cd VRV-security-assignment
 Install dependencies:
 npm install
@@ -195,7 +195,7 @@ npm start
 yarn start
 
 Open your browser:
-Visit http://localhost:3000.
+Visit http://localhost:3000/dashboard
 
 
 Here’s the rewritten version of your document, formatted and refined for easy readability and professionalism:
@@ -294,11 +294,11 @@ Ensure you have the following installed:
 Node.js
 npm or yarn
 Installation
-Clone the repository:
+Clone the repository:https://github.com/jagatapusaibabu/VRV-security-assignment.git
 
 bash
 Copy code
-git clone https://github.com/MahindraGamini/VRV-security-assignment
+git clone 
 cd VRV-security-assignment
 Install dependencies:
 
@@ -315,7 +315,7 @@ npm start
 # or
 yarn start
 Open your browser:
-Visit http://localhost:3000.
+Visit http://localhost:3000/dashboard
 
 
 
